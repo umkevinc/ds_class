@@ -1,0 +1,40 @@
+第一堂 - Python I, 開發環境 和 主要Library簡介
+設定開發環境 virtualenv, pip and  Anaconda
+git 入門 
+Sublime IDE
+JupyterNotebook
+Numpy, Scipy and Pandas 簡介
+Sklearn 簡介
+Data Science workflow 簡介
+
+
+第二堂 - Python II, Pandas Deep Dive, EDA
+Data Loading and Output
+Dataframe Operation - slicing, selecting, index,...etc
+Aggregation 
+Join and combine Dataframe
+Plotting
+Example: EDA
+Quiz: Feature engineering example
+
+
+第三堂 - Python III, Sklearn Deep Dive, Modeling
+Machine learning workflow
+Imputation, feature extraction and  feature engineering 
+Supervised Learning v.s. Unsupervised Learning
+Clustering and Classification 
+Training, testing and cross validation 
+Metrics
+
+
+第四堂 - Python IV, Sklearn Deep Dive, Algorithm
+Linear Regression 
+Random Forest 
+Kmean 
+Nearest neighbor 
+SVM
+...etc
+
+
+第五堂 - Project, a Kaggle example
+Pick a past kaggle competition use what we have learned from the previous classes
